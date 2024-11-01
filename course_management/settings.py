@@ -28,7 +28,7 @@ SECRET_KEY = "django-insecure-1i&bd(-3zb9l7#n1$*alq)66i1c_o#zt%=5xf3cbukpyj@p_ho
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://react-courseform-backend.onrender.com']
 
 
 # Application definition
