@@ -18,3 +18,4 @@ typing_extensions==4.12.2
 virtualenv==20.27.1
 virtualenv-clone==0.5.7
 virtualenvwrapper==6.1.1
+whitenoise==6.7.0
