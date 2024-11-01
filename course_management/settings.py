@@ -63,6 +63,7 @@ MIDDLEWARE = [
 
 CORS_ALLOWED_ORIGINS = [
     'http://localhost:3000',  # For frontend access
+    'https://courseform-approval.vercel.app/'
 ]
 
 AUTH_USER_MODEL = 'courses.User'  # Custom user model
